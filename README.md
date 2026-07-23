@@ -6,6 +6,7 @@ Writeups from the Hack Smarter lab platform. Each folder is one lab, with the fu
 
 | Lab | Focus |
 | --- | --- |
+| [Attacking LSASS](./attacking-lsass) | Credential dumping, LSASS, ProcDump |
 | [BloodHound](./bloodhound) | Active Directory, BloodHound, DCSync |
 | [Kerberoasting](./kerberoasting) | Active Directory, Kerberos |
 
